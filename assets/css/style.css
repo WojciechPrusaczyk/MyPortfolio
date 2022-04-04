@@ -195,18 +195,17 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-size: 25px;
 }
 
 .technologies .progressBar {
   border: 3px solid #08394e;
-  height: 25px;
-  width: 50%;
+  height: 35px;
+  width: 70%;
 }
 
 .technologies .progressBar .progress {
   background-color: #06D6A0;
-  height: 19px;
+  height: 30px;
 }
 
 .technologies .x {

@@ -151,14 +151,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 25px;
     .progressBar{
         border: 3px solid #08394e;
-        height: 25px;
-        width: 50%;
+        height: 35px;
+        width: 70%;
         .progress{
             background-color: $greenColour;
-            height: 19px;
+            height: 30px;
         }
     }
     .x{
